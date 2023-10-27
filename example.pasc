@@ -1,0 +1,4 @@
+program DisplayMessage;
+begin
+    writeln('Madre mía, cómo me gusta la asignatura de ENTORNOS DE DESARROLLO 😊');
+end
